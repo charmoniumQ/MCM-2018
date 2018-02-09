@@ -1,0 +1,19 @@
+Part I: Model
+	What are we modeling?
+		Define Energy Profile
+		Model how it has evolved from 1960 to 2009
+			Predict some data in terms of causal variables
+			Along with time, money, GDP, etc.
+		Determine why each state's energy profile is the way it is
+		Order the states
+		Predict energy profile in 2025, 2050
+		Do this by identifying causal variables
+		And making a model to predict causal variables in 2025, 2050
+Part II: Goals
+	Make targets for renewable energy
+	Determine three specific actions for achieving this goal
+	
+Part III: Letter
+	Write about state of 2009 energy profile
+	and predictions for 2025, 2050
+	and recommendations for policy change/specific actions
