@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Electrical_grid
+
+Long-distance transmission allows remote renewable energy resources to be used to displace fossil fuel consumption. Hydro and wind sources cannot be moved closer to populous cities, and solar costs are lowest in remote areas where local power needs are minimal. Connection costs alone can determine whether any particular renewable alternative is economically sensible. Costs can be prohibitive for transmission lines, but various proposals for massive infrastructure investment in high capacity, very long distance super grid transmission networks could be recovered with modest usage fees.
+https://en.wikipedia.org/wiki/Electric_power_transmission#Bulk_power_transmission
+
+Various planned and proposed systems to dramatically increase transmission capacity are known as super, or mega grids. The promised benefits include enabling the renewable energy industry to sell electricity to distant markets, the ability to increase usage of intermittent energy sources by balancing them across vast geological regions, and the removal of congestion that prevents electricity markets from flourishing. Local opposition to siting new lines and the significant cost of these projects are major obstacles to super grids.
+https://en.wikipedia.org/wiki/Electrical_grid#Super_grids

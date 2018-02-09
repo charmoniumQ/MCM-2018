@@ -1,6 +1,13 @@
 Part I: Model
 	What are we modeling?
 		Define Energy Profile
+			- Energy consumption by source by killowatt
+				- as a function of population demographics
+			- Energy production by source by killowatt (I'm still confused)
+			- Amount spent per killowatt
+			- Usage by sector
+			- Price/accessibility
+			- Reliablity
 		Model how it has evolved from 1960 to 2009
 			Predict some data in terms of causal variables
 			Along with time, money, GDP, etc.
