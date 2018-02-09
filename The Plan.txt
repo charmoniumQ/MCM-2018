@@ -1,13 +1,62 @@
 Part I: Model
 	What are we modeling?
 		Define Energy Profile
-			- Energy consumption by source by killowatt
+			- Energy consumption by source by killowatt by market
+				* All petroleum products consumed by the commercial sector.
+				* All petroleum products consumed by the electric power sector.
+				* All petroleum products consumed by the industrial sector.
+				* All petroleum products consumed by the residential sector.
+				* All petroleum products consumed by the transportation sector.
+				* Fossil fuelS, total consumption.
+				* Biomass total consumption
+				* Direct use of geothermal energy and heat pumps in the commercial sector.
+				* Direct use of geothermal energy and heat pumps in the industrial sector.
+				* Direct use of geothermal energy and heat pumps in the residential sector.
+				* Geothermal and solar energy consumed in the residential sector.
+				* Geothermal energy and hydroelectricity consumed in the commercial sector.
+				* Geothermal energy total consumption.
+				* Geothermal total end-use consumption.
+				* Hydroelectricity produced by the electric power sector.
+				* Hydroelectricity produced by the end-use sectors.
+				* Hydroelectricity produced in the commercial sector.
+				* Hydroelectricity produced in the industrial sector.
+				* Hydroelectricity total production.
+				* Photovoltaic and solar thermal energy total consumption.
+				* Photovoltaic and solar thermal energy total end-use consumption.
+				* Plant condensate consumed by the industrial sector.
+                * Electricity total consumption (i.e., sold).
+				* Renewable energy production, other than fuel ethanol.
+				* Renewable energy production.
+				* Renewable energy total consumption.
 				- as a function of population demographics
+					* Resident population including Armed Forces.
+				- as a function of GDP
+					* Real gross domestic product.
+					* Current-dollar gross domestic product.
 			- Energy production by source by killowatt (I'm still confused)
+				* Electricity produced from geothermal energy by the electric power sector.
+				* Electricity produced from nuclear power by the electric power sector.
+				* Electricity produced from nuclear power.
+				* Electricity produced from photovoltaic and solar thermal energy by the electric power sector.
+				* Electricity produced from wind energy by the electric power sector.
+				* Electricity produced from wind energy.
 			- Amount spent per killowatt
 			- Usage by sector
+				* Electricity consumed by (i.e., sold to) the commercial sector.
+				* Electricity consumed by (i.e., sold to) the industrial sector.
+				* Electricity consumed by (i.e., sold to) the residential sector.
+				* Electricity consumed by (i.e., sold to) the transportation sector.
+				* Electricity consumed by refineries.
 			- Price/accessibility
-			- Reliablity
+				* Electricity price in the commercial sector.
+				* Electricity price in the industrial sector.
+				* Electricity price in the residential sector.
+				* Electricity price in the transportation sector.
+				* Total energy average price in the commercial sector.
+				* Total energy average price in the industrial sector.
+				* Total energy average price in the residential sector.
+				* Total energy average price in the transportation sector.
+				* Total energy average price.
 		Model how it has evolved from 1960 to 2009
 			Predict some data in terms of causal variables
 			Along with time, money, GDP, etc.
