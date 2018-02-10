@@ -9,6 +9,7 @@ Part 0:
 Part I: Model
 	What are we modeling?
 		Relevant data:
+			irrelevant_sources = ["Asphalt and road oil"]
 			* For each sector, for each source, how much consumed
 			* For each sector, for each source, price
 			* For each source, how much produced
@@ -23,6 +24,7 @@ Part I: Model
 			Cleanliness per price
 			Env. impact per person
 			Env. impact per dollar
+			https://www.eia.gov/totalenergy/data/annual/pdf/sec2.pdf
 
 		Model how it has evolved from 1960 to 2009
 			Predict some data in terms of causal variables
