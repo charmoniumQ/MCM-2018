@@ -13,11 +13,6 @@ Part I: Model
 			* For each sector, for each source, how much consumed
 			* For each sector, for each source, price
 			* For each source, how much produced
-			Predicted based on:
-				- Population
-				- GDP
-				- Price of fuel input
-				- Policy (?)
 		g(relevant data) -> environmnetal impact (real number)
 		Summary
 			For each source, f(produced, sum over sectors of how much consumed), rendered in pie chart, where f is to be determined.
